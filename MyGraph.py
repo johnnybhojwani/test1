@@ -7,3 +7,7 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 print("Hello there!")
+
+print("Hi again!")
+
+
